@@ -44,6 +44,6 @@ Develop hands-on labs in penetration testing, vulnerability scanning, and system
 
 📧 asamoahjustin4@gmail.com
 
-🌐 GitHub
+🌐 [GitHub](https://github.com/nanaantwii)
 
 ✨ Always learning, always improving.
