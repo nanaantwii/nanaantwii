@@ -4,7 +4,7 @@
 🔧 Passionate about troubleshooting, documentation, and secure system administration.
 📚 Currently pursuing certifications in CompTIA A+, Network+, Security+ as part of my cybersecurity journey.
 
-🗂️ Featured Project: [IT Helpdesk Portfolio](https://github.com/nanaantwii/it-helpdesk-portfolio)
+🗂️ Featured Project: IT Helpdesk Portfolio
 
 A collection of real-world IT support case studies showcasing troubleshooting, documentation, and resolution skills.
 
