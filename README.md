@@ -8,7 +8,7 @@
 
 A collection of real-world IT support case studies showcasing troubleshooting, documentation, and resolution skills.
 
-📂 View Portfolio Repository
+📂 [View Portfolio Repository](https://github.com/nanaantwii/it-helpdesk-portfolio)
 
 Highlights:
 
