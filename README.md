@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Hi, I’m Justin Asamoah
 
-<!--
-**nanaantwii/nanaantwii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support & Cybersecurity Enthusiast
+🔧 Passionate about troubleshooting, documentation, and secure system administration.
+📚 Currently pursuing certifications in CompTIA A+, Network+, Security+ as part of my cybersecurity journey.
 
-Here are some ideas to get you started:
+🗂️ Featured Project: IT Helpdesk Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A collection of real-world IT support case studies showcasing troubleshooting, documentation, and resolution skills.
+
+📂 View Portfolio Repository
+
+Highlights:
+
+Hardware, software, networking, and account administration tickets
+
+Step-by-step troubleshooting approach
+
+Documentation with evidence (screenshots, logs, reports)
+
+Final outcomes and resolutions
+
+🔨 Tech Stack & Tools
+
+IT Support: Spiceworks, Windows OS, Microsoft 365, Active Directory
+
+Networking: TCP/IP, Wi-Fi troubleshooting, router logs, VLAN basics
+
+Cybersecurity Path: CompTIA Security+, CySA+, PenTest+ (in progress)
+
+Other Tools: GitHub, Markdown, Documentation & Reporting
+
+🚀 Goals
+
+Build a strong foundation in IT Support & Helpdesk Operations
+
+Transition into Cybersecurity Specialist roles
+
+Develop hands-on labs in penetration testing, vulnerability scanning, and system hardening
+
+📫 Let’s Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/justin-asamoah-a98721300/)
+
+📧 asamoahjustin4@gmail.com
+
+🌐 GitHub
+
+✨ Always learning, always improving.
