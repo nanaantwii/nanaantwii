@@ -1,4 +1,4 @@
-👋 Hi, I’m Justin Asamoah
+👋 Hi, I’m Justin Nana Antwi
 
 💻 IT Support & Cybersecurity Enthusiast
 🔧 Passionate about troubleshooting, documentation, and secure system administration.
